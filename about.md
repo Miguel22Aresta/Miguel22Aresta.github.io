@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-This is an example page!
+Miguel Aresta
 
-Actually, it has the same layout of a post...
+Aerospace Engineering Graduate, Aerodynamics & Computation postgrad.
