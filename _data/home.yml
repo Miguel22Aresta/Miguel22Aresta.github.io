@@ -19,6 +19,11 @@ project_entries:
     desc: 3D shallow-water solver with photo-realistic rendering.
     highlight: WIP
     
+  - title: CFD Gallery 
+    url: overview-post
+    desc: Colourful Fluid Dynamics
+    highlight: WIP
+    
 
 old_project_entries:
  
