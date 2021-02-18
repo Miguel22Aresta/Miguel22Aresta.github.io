@@ -1,6 +1,8 @@
 title: Miguel Aresta
 author: Miguel Aresta
 url:  # root address of the site
+url: https://miguel22aresta.github.io/  # root address of the site
+baseurl: /Miguel22Aresta
 description: > # description of the site (multiple lines allowed)
   
   Curious person.
