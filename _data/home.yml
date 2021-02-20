@@ -43,6 +43,9 @@ old_project_entries:
 footer_entries:
   - title: LinkedIn
     url: https://linkedin.com/in/miguel22aresta
+    
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=MOgZlj0AAAAJ&hl=en
 
  # - title: feed
   #  url: feed.xml
